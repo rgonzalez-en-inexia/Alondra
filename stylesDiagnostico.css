@@ -16,6 +16,14 @@ img { max-width: 300px; margin-bottom: 25px; }
 	padding: 10px;
 	border-bottom: 2px solid #FFC107;
 }
+.preguntas {
+	color: #2C3E50;
+	font-size: 1.4em;
+	margin: 10px 0;
+	padding: 5px;
+	border-bottom: 2px solid #FFC107;
+	text-align: justify;
+}
 h2 { color: #2C3E50; margin: 25px 0; }
 h3 { color: #8B4B4F; margin: 15px 0; }
 h4 { color: #8B4B4F; margin: 10px 0; }
