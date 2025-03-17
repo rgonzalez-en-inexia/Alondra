@@ -21,7 +21,7 @@ img { max-width: 300px; margin-bottom: 25px; }
 	font-size: 1.4em;
 	margin: 10px 0;
 	padding: 5px;
-	border-bottom: 2px solid #FFC107;
+	border-top: 2px solid #FFC107;
 	text-align: justify;
 }
 h2 { color: #2C3E50; margin: 25px 0; }
