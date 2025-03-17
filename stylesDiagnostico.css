@@ -16,6 +16,7 @@ img { max-width: 300px; margin-bottom: 25px; }
 	padding: 10px;
 	border-bottom: 2px solid #FFC107;
 }
+.version { font-size: 0.4em; color: #2C3E50; margin: 15px 0; }
 .preguntas {
 	color: #2C3E50;
 	font-size: 1.4em;
