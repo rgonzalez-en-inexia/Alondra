@@ -29,6 +29,11 @@ img { max-width: 300px; margin-bottom: 25px; }
 	text-align: justify;
 }
 .alternativa { font-size: 1.4em; color: #000000; margin: 15px 0; }
+input[type="radio"] {
+    width: 20px; /* Ajusta el tamaño aquí */
+    height: 20px; /* Ajusta el tamaño aquí */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el círculo */
+}
 ul { list-style-type: none; padding: 0; text-align: left; }
 button { 
 	background-color: #FFC107;
