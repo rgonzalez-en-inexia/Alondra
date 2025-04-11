@@ -4,6 +4,7 @@ body {
 	padding: 10px;
 	text-align: center;
 	width: 900px;
+	max-width: 95%;
 	margin: 0 auto;
 	border-radius: 10px;
 	box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
@@ -19,7 +20,11 @@ img { max-width: 300px; margin-bottom: 25px; }
 	padding: 10px;
 	border-bottom: 2px solid #FFC107;
 }
-.version { font-size: 1em; color: #C78B8F; margin: 15px 0; }
+.version { 
+	font-size: 1.5em; 
+	color: #C78B8F; 
+	margin: 15px 0; 
+}
 .preguntas {
 	color: #2C3E50;
 	font-size: 1.4em;
@@ -28,10 +33,14 @@ img { max-width: 300px; margin-bottom: 25px; }
 	border-top: 2.2px solid #FFC107;
 	text-align: justify;
 }
-.alternativa { font-size: 1.4em; color: #000000; margin: 15px 0; }
+.alternativa { 
+	font-size: 1.6em; 
+	color: #012344; 
+	margin: 15px 0; 
+}
 input[type="radio"] {
-    width: 100px; /* Ajusta el tamaño aquí */
-    height: 100px; /* Ajusta el tamaño aquí */
+    width: 40px; /* Ajusta el tamaño aquí */
+    height: 40px; /* Ajusta el tamaño aquí */
     cursor: pointer; /* Cambia el cursor al pasar sobre el círculo */
 }
 ul { list-style-type: none; padding: 0; text-align: left; }
