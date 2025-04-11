@@ -3,7 +3,7 @@ body {
 	background-color: #F2D7D5;
 	padding: 10px;
 	text-align: center;
-	width: 850px;
+	width: 900px;
 	margin: 0 auto;
 	border-radius: 10px;
 	box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
@@ -19,7 +19,7 @@ img { max-width: 300px; margin-bottom: 25px; }
 	padding: 10px;
 	border-bottom: 2px solid #FFC107;
 }
-.version { font-size: 0.6em; color: #2C3E50; margin: 15px 0; }
+.version { font-size: 0.8em; color: #F2D7D5; margin: 15px 0; }
 .preguntas {
 	color: #2C3E50;
 	font-size: 1.4em;
